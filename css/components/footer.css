@@ -1,0 +1,17 @@
+.footer {
+    background-color:   #7dabdf;
+    text-align: center;
+    padding: 60px;
+}
+
+.footer a {
+  font-size: 30px;
+  color: white
+  margin: 0 5px;
+}
+
+.footer p {
+  color: white;
+  opacity: 0.3;
+
+}
